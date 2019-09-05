@@ -1,0 +1,21 @@
+{
+  "name": "9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"start": "node server/server.js",
+    "test": "\u0018"
+  },
+  "engines":{
+  	"node": "10.16.2"
+  },
+  "author": "Kallol",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
